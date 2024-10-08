@@ -1,0 +1,46 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer Team Lead",
+            "subtitle": "SOLIDitech",
+            "workType": "Full-time",
+            "workDescription": [
+                "Lead and mentor a team of developers and QA engineers through one-on-one meetings, code reviews, and ongoing support.",
+                "Lead a team in developing enterprise level software to automate businesses providing internet services to customers",
+                "Design and architect solutions based on client needs, making key architectural decisions.",
+                "Spearheaded the design, development, and support of a new instance delivering fibre services to low income households.",
+                "Fully automate processes across sales, provisioning, and support, minimizing human intervention.",
+                "Integrate with multiple Layer 2 fibre suppliers via REST API and SOAP to deliver fibre services, implementing custom billing and prepaid logic."
+            ],
+            "dateText": "11/2022 – Present"
+        },
+        {
+            "title": "Software Project  Lead",
+            "subtitle": "SOLIDitech",
+            "workType": "Full-time",
+            "workDescription": [
+                "Led large-scale data migrations from legacy SQL databases to the company’s MySQL database.",
+                "Developed a fibre service monitoring and support tool to auto-generate support tickets from a mailbox.",
+                "Integrated the Netcash billing system, enabling customers to manage billing via prepaid or debit order payments and implemented custom processes for bank statement reconciliation.",
+                "Enhanced a multi-layered Java repository, adding core functionality to boost development productivity across teams.",
+                "Implemented Google Analytics tracking for customer online shops.",
+                "Developed and maintained a fibre feasibility server, providing real-time fibre service availability and product options for specific locations."
+            ],
+            "dateText": "11/2020 – 11/2022"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "SOLIDitech",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed Java scripts for seamless data migration from CSV files and various SQL databases to the company’s MySQL database.",
+                "Integrated with multiple SMS gateways to enhance customer experience during online quote and contract acceptance.",
+                "Spearheaded the implementation of new customer instances, including data migration, regression testing, feature development, and training.",
+                "Developed and implemented automated customer billing rules, streamlining the billing process.",
+                "Provided ongoing support for multiple customer instances, including bug fixes, support queries, and custom feature development.",
+                "Designed and developed a GIS tagging and mapping system for a Layer 2 fibre provider, integrating with a network management system via SOAP for auto provisioning of services."
+            ],
+            "dateText": "11/2017 – 11/2020"
+        }
+    ]
+}

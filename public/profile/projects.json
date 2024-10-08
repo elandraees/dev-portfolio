@@ -1,0 +1,77 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/reminder.png",
+            "title": "Task Reminder Google Chrome Plugin",
+            "bodyText": "- A chrome plugin to create reminders for yourself.\n - Get a pop up notification in chrome.\n- User can sign up and their reminders will be stored in a **Postgres** databse and they can access them on any browser or they can create local reminders which will use the chrome storage.\n- Created a React sign up journey that incorporates stripe billing.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/elandraees/user-reminder"
+                }
+            ],
+            "tags" : [
+                "HTML/CSS",
+                "Python",
+                "Javascript",
+                "React",
+                "Stripe Billing",
+                "Postgres",
+                "Flask",
+                "JWT Auth",
+                "RESTAPI"
+            ]
+        },
+        {
+            "image" : "images/projects/good-muslim-reads.png",
+            "title": "Online Islamic Book Library",
+            "bodyText": "- A React App for an online islamic library.\n - Deployed to Netlify.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://goodmuslimreads.com/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Typescript",
+                "Netlify"
+            ]
+        },
+        
+        {
+            "image" : "images/projects/invoice.png",
+            "title": "Financial Documents API",
+            "bodyText": "- RESTAPI to create PDF financial documents (Invoices, Receipts and Quotes).",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://rapidapi.com/elandraees/api/financial-docs/playground"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Flask",
+                "Token Auth",
+                "RESTAPI"
+            ]
+        },
+        
+        {
+            "title": "Machine Learning Notebooks",
+            "bodyText": "- Python Jupyter Notebooks on my ML/AI learning path. ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/elandraees/machine-learning"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Jupyter",
+                "Machine Learning"
+            ]
+        }
+        
+    ]
+}
