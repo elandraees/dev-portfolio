@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Jan 2017 - Nov 2017",
+            "cardTitle": "BSc (Honours), Computer Science",
+            "cardSubtitle":"University Of Cape Town",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": ""
+            }
+        },
+        {
+            "title": "Jan 2014 - Nov 2016",
+            "cardTitle": "BSc, Computer Science and Computer Engineering",
+            "cardSubtitle":"University Of Cape Town",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": ""
+            }
+        }
+    ]
+}

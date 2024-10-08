@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/raees-eland"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/elandraees"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:elandraees@gmail.com"
+        }
+    ]
+}
