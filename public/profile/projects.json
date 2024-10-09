@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/reminder.png",
             "title": "Task Reminder Google Chrome Plugin",
-            "bodyText": "- A chrome plugin to create reminders for yourself.\n - Get a pop up notification in chrome.\n- User can sign up and their reminders will be stored in a **Postgres** databse and they can access them on any browser or they can create local reminders which will use the chrome storage.\n- Created a React sign up journey that incorporates stripe billing.",
+            "bodyText": "- A chrome plugin to create reminders for yourself.\n - Get a pop up notification in chrome.",
             "links": [
                 {
                     "text": "GitHub",
@@ -18,6 +18,24 @@
                 "Stripe Billing",
                 "Postgres",
                 "Flask",
+                "JWT Auth",
+                "RESTAPI"
+            ]
+        },
+        {
+            "image" : "images/projects/account-service.png",
+            "title": "Account Service Backend",
+            "bodyText": "- An account/user backend service written in python. ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/elandraees/Python/tree/main/account-service"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Flask",
+                "Postgres",
                 "JWT Auth",
                 "RESTAPI"
             ]
